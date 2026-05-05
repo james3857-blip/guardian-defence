@@ -46,11 +46,10 @@ const courses = [
 ]
 
 const schedule = [
-  { date: 'May 4, 2026', className: 'Basic Pistol Instruction', time: '10:00 AM - 1:30 PM', seats: '8 seats' },
-  { date: 'May 11, 2026', className: 'CCW Training', time: '9:00 AM - 1:00 PM', seats: '10 seats' },
-  { date: 'May 18, 2026', className: 'Home Defense', time: '11:00 AM - 2:00 PM', seats: '8 seats' },
-  { date: 'May 25, 2026', className: 'Basic Pistol Instruction', time: '10:00 AM - 1:30 PM', seats: '8 seats' },
-]
+  { date: 'May 16, 2026', className: 'Basic Pistol Instruction', time: '08:00 AM - 10:30 PM', seats: '8 seats' },
+  { date: 'May 16, 2026', className: 'Gun Cleaning', time: '11:30 AM - 12:30 PM', seats: '8 seats' },
+  { date: 'May 16, 2026', className: 'Range Safety', time: '1:30 AM - 2:30 PM', seats: '8 seats' },
+  ]
 
 const gallery = [
   {
